@@ -1,4 +1,4 @@
-# Architect-sRoad
+# Architect's Road
 做个高可用的API方案（Linux + PHP + MySQL + Nginx + Apache + Redis + Javascrip）
 
 日均PV5000万左右的基础架构
